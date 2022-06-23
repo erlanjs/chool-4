@@ -17,7 +17,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <div className="footer-general__center">
-                        <a href="https://kashkasuu@bk.ru">kashkasuu@bk.ru</a>
+                        <a href="https://maatov88@bk.ru">maatov88@bk.ru</a>
                         {/*<div>*/}
                         {/*    <h1>Developed at</h1>*/}
                         {/*    <img src={motion} alt=""/>*/}
